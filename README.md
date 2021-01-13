@@ -1,1 +1,1 @@
-# web_scrap_model
+Sample webscrap model for video cards
